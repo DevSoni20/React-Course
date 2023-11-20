@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## 'Day 1'
+## `Day 1`
 - Learned about react basics
 - Components and little bit about git.
 
