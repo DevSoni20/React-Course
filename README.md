@@ -17,4 +17,5 @@ You may also see any lint errors in the console.
 ## `Day 1`
 - Learned about react basics
 - Components and little bit about git.
-
+- learn about JSX
+- JSX is basically html but some thing are change like for class we have write className snd so on.
